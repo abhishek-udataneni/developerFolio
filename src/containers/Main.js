@@ -18,12 +18,12 @@ export default class Main extends Component {
         <Header />
         <Greeting />
         <Skills />
-        <Projects />
-        <StartupProject />
-        <Achievement />
-        <Blogs />
-        <Talks />
-        <Podcast />
+        {/* <Projects /> */}
+        {/* <StartupProject /> */}
+        {/* <Achievement /> */}
+        {/* <Blogs /> */}
+        {/* <Talks /> */}
+        {/* <Podcast /> */}
         <Contact />
         <Footer />
       </div>

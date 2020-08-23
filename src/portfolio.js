@@ -12,7 +12,7 @@ const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/abhishek-udataneni",
   // linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "abhishekudatannei@gmail.com",
+  // gmail: "abhishekudatannei@gmail.com",
   // gitlab: "https://gitlab.com/saadpasta",
   // facebook: "https://www.facebook.com/saad.pasta7"
 };
@@ -22,7 +22,7 @@ const skillsSection = {
   title: "What I am intrested in",
   subTitle: "",
   skills: [
-    "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
+    "⚡ Develop highly interactive Front end / User Interfaces for web and mobile applications",
     "⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks",
     "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
   ],
@@ -199,8 +199,8 @@ const podcastSection = {
 const contactInfo = {
   title: "Contact Me",
   subtitle: "You can contact me here.I'd highly appreciate If you could text or email.",
-  number: "+91-8247695830",
-  email_address: "abhishekudataneni@gmail.com"
+  number: "+91-9148235914",
+  email_address: "abshk15@gmail.com"
 };
 
 export { greeting, socialMediaLinks, skillsSection, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo };

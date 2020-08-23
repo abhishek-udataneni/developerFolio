@@ -13,10 +13,10 @@ export default function socialMedia() {
         <i className="fab fa-linkedin-in"></i>
         <span></span>
       </a> */}
-      <a href={`mailto:${socialMediaLinks.gmail}`} className="icon-button google" target="_blank">
+      {/* <a href={`mailto:${socialMediaLinks.gmail}`} className="icon-button google" target="_blank">
         <i className="fab fa-google"></i>
         <span></span>
-      </a>
+      </a> */}
       {/* <a href={socialMediaLinks.gitlab} className="icon-button gitlab" target="_blank">
         <i className="fab fa-gitlab"></i>
         <span></span>

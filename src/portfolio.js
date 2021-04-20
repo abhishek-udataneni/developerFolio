@@ -5,7 +5,7 @@ const greeting = {
   title: "Hi there, I'm Abhishek",
   subTitle:
     "A web Developer with experience of building Web applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks",
-  resumeLink: "https://drive.google.com/file/d/1Bvg02hR7BYBcVvw7gxy_LcH6CnBfIWzW/view"
+  resumeLink: "https://drive.google.com/file/d/13OjZn4rbVS5EoDwpzKKpjHIkWIn-fUhj/view"
 };
 
 const socialMediaLinks = {
@@ -199,7 +199,7 @@ const podcastSection = {
 const contactInfo = {
   title: "Contact Me",
   subtitle: "You can contact me here.I'd highly appreciate If you could text or email.",
-  number: "+91-9148235914",
+  number: "+91-8247695830",
   email_address: "abshk15@gmail.com"
 };
 
